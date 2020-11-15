@@ -2,6 +2,7 @@
 layout: post
 title: First post - testing the waters!
 tags: fresher
+comments: true
 ---
 
 Beauty lays below! 
