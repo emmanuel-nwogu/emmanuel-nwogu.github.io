@@ -1,9 +1,9 @@
 ---
 layout: post
 title: First post - testing the waters!
+tags: fresher
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
+Beauty lays below! 
 ![_config.yml]({{ site.baseurl }}/images/image.png)
 ##### The above is kinda nice
